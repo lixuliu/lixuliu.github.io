@@ -3149,6 +3149,9 @@ input, select, textarea {
 			h3 {
 				font-size: 1em;
 			}
+		        h7 {
+				font-size: 1.1em;
+			}
 
 		/* Section/Article */
 
